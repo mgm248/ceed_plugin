@@ -1,0 +1,7 @@
+setup.py
+ceed_plugin/__init__.py
+ceed_plugin.egg-info/PKG-INFO
+ceed_plugin.egg-info/SOURCES.txt
+ceed_plugin.egg-info/dependency_links.txt
+ceed_plugin.egg-info/top_level.txt
+ceed_plugin/functions/__init__.py
